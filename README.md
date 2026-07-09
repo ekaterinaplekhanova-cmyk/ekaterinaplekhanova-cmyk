@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="images/profile-banner.png" alt="Контент-маркетолог премиального e-commerce" width="100%">
-
 # Контент-маркетолог премиального e-commerce
 
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge)](https://claude.ai/code)
